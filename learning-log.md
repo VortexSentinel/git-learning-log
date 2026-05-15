@@ -48,6 +48,8 @@ I'm learning Git and version control to track my work.
 
 ### 🟢 Beginner Practice Projects
 - **Create Your First Repository:** Set up a personal project repo, make commits, and push to GitHub - [GitHub Quick Start](https://docs.github.com/en/get-started/quickstart/hello-world)
+- **Track a Personal Project:** Use Git to version-control your own code, notes, or config files practice daily commits
+- **Experiment with Branches:** Create a test branch, make changes, then merge it back to main - [Git Branching Basics](https://learngitbranching.js.org/)
 
 ### 🟡 Intermediate Learning Path
 - **Master Branching Strategies:** Learn Git Flow, GitHub Flow, and trunk-based development
